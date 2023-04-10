@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,200&display=swap');
+
+body{
+    background-color: #343541;
+    color: #ECECF1;
+    height: 100%;
+}
+
+#main{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    min-height:80vh;
+    font-family: 'Poppins';
+    font-style: italic;
+
+    font-size: 0.8rem;
+}
+img{
+    height: 50px;
+}
+p{
+    background-color: #444655;
+    border: none;
+    color: #ECECF1;
+    padding: 5px 15px;
+    border-radius: 0.5rem;
+}
